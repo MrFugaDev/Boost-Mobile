@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "downloadUrl": "https://allfile.nyc3.digitaloceanspaces.com/Boost-Mobile-Check.exe",
-    "notes": "Se corrigieron algunos errores."
+    "notes": "Threads Estable, 0 caida de Threads"
   }
